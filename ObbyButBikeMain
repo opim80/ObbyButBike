@@ -1,4 +1,4 @@
-       local teleport_table = {
+local teleport_table = {
             location1 = Vector3.new(106, 1, -13634), 
             location2 = Vector3.new(59, 8, -13691)-- your desired position
         }
